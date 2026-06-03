@@ -192,8 +192,6 @@ The entire workflow was designed with reproducibility as a primary objective. Al
 
 **Rituraj Kumar**
 
-B.Pharm, SRM Modinagar College of Pharmacy
-
 **Research Interests**
 
 Computational Biology • Molecular Docking • Molecular Dynamics Simulation • Drug Discovery • Bioinformatics • Pharmacology • Computer-Aided Drug Design (CADD)
