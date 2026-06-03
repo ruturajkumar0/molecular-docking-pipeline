@@ -174,7 +174,22 @@ images/
 The entire workflow was designed with reproducibility as a primary objective. All docking calculations were executed through a standardized command-line pipeline within a controlled Miniconda environment. This approach ensures transparency, reproducibility, scalability, and suitability for future virtual screening and structure-based drug discovery applications.
 
 ---
+<h2>Docking Analysis Gallery</h2>
 
+<p align="center">
+  <img src="images/ritu%20image-1.jpg" width="45%">
+  <img src="images/ritu%20image-2.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/ritu%20image-3.jpg" width="45%">
+  <img src="images/ritu%20image-4.jpg" width="45%">
+</p>
+
+<p align="center">
+  <img src="images/ritu%20image-5.jpg" width="45%">
+  <img src="images/ritu%20image-6.jpg" width="45%">
+</p>
 ## Research Applications
 
 * Neurodegenerative Disease Research
