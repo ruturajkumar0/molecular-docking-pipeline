@@ -1,0 +1,550 @@
+MODEL 1
+REMARK VINA RESULT:    -7.045      0.000      0.000
+REMARK INTER + INTRA:          -8.575
+REMARK INTER:                  -8.281
+REMARK INTRA:                  -0.294
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       0.185 -56.419  11.968  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -0.346 -56.431  10.864  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       0.518 -56.183   9.684  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.040 -56.145   8.465  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -1.392 -56.311   8.218  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -2.222 -56.596   9.277  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -3.567 -56.818   8.963  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -4.459 -57.140   9.980  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.034 -57.236  11.300  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -2.694 -57.004  11.612  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -1.779 -56.680  10.600  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       0.755 -55.923   7.250  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       1.222 -57.012   6.498  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       1.949 -56.803   5.322  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       2.210 -55.503   4.902  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       1.773 -54.413   5.646  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       1.046 -54.622   6.820  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       2.894 -55.252   3.749  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       3.072 -56.095   3.303  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       1.869 -56.003   9.922  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       1.939 -55.963  10.902  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -5.776 -57.381   9.726  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -6.320 -56.733  10.205  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -2.291 -57.112  12.911  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -2.714 -57.878  13.333  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -6.982      5.155      6.862
+REMARK INTER + INTRA:          -8.500
+REMARK INTER:                  -8.342
+REMARK INTRA:                  -0.158
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -0.210 -56.584   2.992  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1       0.799 -57.112   3.444  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       2.109 -56.624   2.949  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       3.232 -57.210   3.391  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1       3.262 -58.268   4.283  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1       2.073 -58.718   4.808  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       2.167 -59.745   5.753  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       1.008 -60.231   6.348  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -0.239 -59.715   6.011  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -0.330 -58.697   5.061  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1       0.828 -58.193   4.452  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       4.564 -56.768   2.960  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       4.965 -56.922   1.624  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       6.221 -56.469   1.204  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       7.073 -55.866   2.123  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       6.699 -55.726   3.454  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       5.446 -56.177   3.874  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       8.295 -55.389   1.752  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       8.789 -56.103   1.318  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       2.088 -55.575   2.047  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       2.379 -55.978   1.199  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1       1.044 -61.219   7.286  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1       1.951 -61.563   7.355  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -1.560 -58.195   4.749  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -2.233 -58.555   5.349  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -6.979      1.789      2.035
+REMARK INTER + INTRA:          -8.497
+REMARK INTER:                  -8.436
+REMARK INTRA:                  -0.061
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -1.775 -53.977  10.639  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -1.464 -55.001  10.041  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.327 -54.922   9.092  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       0.011 -56.014   8.390  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -0.641 -57.232   8.475  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -1.668 -57.364   9.381  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -2.249 -58.634   9.472  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -3.272 -58.849  10.388  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -3.728 -57.821  11.206  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -3.153 -56.553  11.106  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -2.119 -56.317  10.190  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       1.137 -56.017   7.446  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       1.173 -55.104   6.382  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       2.261 -55.081   5.502  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       3.309 -55.975   5.689  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       3.279 -56.901   6.725  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       2.193 -56.923   7.604  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       4.400 -55.973   4.871  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       4.498 -55.087   4.487  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       0.323 -53.705   8.990  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       1.183 -53.924   8.567  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -3.862 -60.070  10.528  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -4.479 -60.045  11.279  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -3.606 -55.559  11.923  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -3.492 -55.809  12.854  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -6.865      2.919      4.590
+REMARK INTER + INTRA:          -8.362
+REMARK INTER:                  -8.182
+REMARK INTRA:                  -0.181
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -4.754 -57.558   7.955  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -3.531 -57.505   7.895  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -2.861 -58.302   6.838  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -1.521 -58.300   6.773  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -0.697 -57.607   7.643  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -1.277 -56.813   8.605  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -0.399 -56.084   9.414  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -0.915 -55.238  10.389  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -2.288 -55.113  10.573  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -3.161 -55.849   9.770  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -2.660 -56.705   8.781  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1      -0.789 -59.050   5.744  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      -0.077 -58.371   4.743  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       0.650 -59.083   3.783  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       0.658 -60.474   3.824  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      -0.060 -61.161   4.796  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1      -0.784 -60.451   5.756  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       1.372 -61.207   2.923  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       1.271 -60.805   2.046  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1      -3.676 -59.009   5.973  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      -3.614 -58.517   5.124  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -0.105 -54.494  11.193  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -0.163 -53.559  10.932  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -4.505 -55.707   9.958  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -4.690 -54.921  10.498  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -6.809      4.265      7.258
+REMARK INTER + INTRA:          -8.297
+REMARK INTER:                  -8.228
+REMARK INTRA:                  -0.069
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       0.880 -55.821   4.060  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1       2.026 -56.152   4.340  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       3.050 -56.048   3.272  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       4.305 -56.443   3.533  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1       4.725 -56.964   4.745  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1       3.821 -57.029   5.779  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       4.315 -57.503   6.999  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       3.465 -57.569   8.098  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       2.134 -57.178   7.998  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1       1.642 -56.715   6.776  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1       2.484 -56.639   5.658  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       5.375 -56.352   2.531  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       6.542 -55.622   2.804  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       7.578 -55.564   1.865  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       7.441 -56.233   0.653  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       6.282 -56.943   0.359  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       5.249 -57.003   1.297  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       8.434 -56.223  -0.281  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       8.065 -55.916  -1.124  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       2.637 -55.540   2.053  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       2.751 -56.289   1.427  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1       3.899 -58.008   9.313  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1       3.336 -58.743   9.609  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1       0.337 -56.326   6.697  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -0.170 -56.952   6.155  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -6.791      2.026      3.492
+REMARK INTER + INTRA:          -8.276
+REMARK INTER:                  -7.996
+REMARK INTRA:                  -0.280
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -3.760 -58.975   6.533  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -2.992 -58.309   7.218  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -1.589 -58.185   6.751  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.713 -57.499   7.500  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -1.020 -56.896   8.708  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -2.321 -56.942   9.153  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -2.588 -56.262  10.345  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -3.888 -56.240  10.840  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.919 -56.889  10.170  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -4.647 -57.576   8.985  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -3.344 -57.607   8.470  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       0.686 -57.318   7.093  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       1.095 -56.132   6.466  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       2.435 -55.943   6.110  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       3.362 -56.945   6.379  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       2.969 -58.135   6.979  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       1.632 -58.323   7.337  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       4.681 -56.794   6.070  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       4.982 -55.933   6.402  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1      -1.271 -58.795   5.551  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1      -0.298 -58.929   5.598  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -4.205 -55.579  11.988  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -5.168 -55.612  12.122  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -5.672 -58.200   8.335  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -6.346 -57.553   8.069  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -6.601      3.439      4.556
+REMARK INTER + INTRA:          -8.053
+REMARK INTER:                  -7.766
+REMARK INTRA:                  -0.287
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -2.483 -54.578  10.156  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -1.936 -55.674  10.146  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.557 -55.758  10.686  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       0.086 -56.934  10.649  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -0.444 -58.099  10.122  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -1.738 -58.080   9.658  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -2.245 -59.299   9.196  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -3.557 -59.361   8.739  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.365 -58.230   8.729  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -3.853 -57.012   9.181  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -2.534 -56.930   9.647  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       1.445 -57.097  11.183  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       2.557 -57.000  10.333  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       3.854 -57.120  10.845  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       4.034 -57.340  12.207  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       2.941 -57.460  13.058  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       1.647 -57.339  12.548  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       5.279 -57.439  12.753  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       5.883 -56.866  12.255  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1      -0.014 -54.595  11.204  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       0.583 -54.904  11.920  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -4.105 -60.527   8.293  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -5.074 -60.446   8.289  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -4.663 -55.914   9.173  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -4.131 -55.103   9.119  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -6.578      2.923      8.664
+REMARK INTER + INTRA:          -8.025
+REMARK INTER:                  -8.114
+REMARK INTRA:                   0.089
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       2.332 -55.634   2.222  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1       2.884 -55.881   3.287  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       2.064 -55.799   4.521  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       2.649 -56.022   5.707  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1       3.991 -56.316   5.875  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1       4.777 -56.453   4.754  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       6.110 -56.815   4.978  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       6.957 -57.000   3.891  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       6.499 -56.825   2.590  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1       5.171 -56.455   2.370  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1       4.302 -56.266   3.453  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       1.896 -55.977   6.968  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       2.069 -56.979   7.934  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       1.380 -56.919   9.150  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       0.516 -55.857   9.395  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       0.318 -54.867   8.439  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       1.007 -54.926   7.226  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      -0.157 -55.745  10.575  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      -0.318 -56.635  10.926  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       0.724 -55.493   4.364  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       0.300 -56.357   4.160  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1       8.259 -57.367   4.053  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1       8.676 -57.465   3.180  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1       4.735 -56.297   1.087  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1       4.837 -55.373   0.807  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -6.432      2.070      6.967
+REMARK INTER + INTRA:          -7.854
+REMARK INTER:                  -7.556
+REMARK INTRA:                  -0.298
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1       4.510 -57.861   7.563  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1       3.512 -57.271   7.164  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1       2.445 -56.983   8.154  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1       1.322 -56.377   7.741  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1       1.070 -56.003   6.432  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1       2.054 -56.203   5.492  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1       1.773 -55.748   4.200  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1       2.733 -55.890   3.204  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1       3.961 -56.483   3.474  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1       4.235 -56.946   4.762  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1       3.281 -56.809   5.780  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1       0.231 -56.043   8.666  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1      -0.816 -56.951   8.886  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1      -1.837 -56.651   9.793  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1      -1.811 -55.439  10.476  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1      -0.793 -54.519  10.252  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       0.228 -54.820   9.348  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1      -2.772 -55.114  11.386  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1      -3.642 -55.295  10.997  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       2.682 -57.365   9.462  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       3.631 -57.155   9.608  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1       2.516 -55.450   1.932  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1       1.571 -55.532   1.720  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1       5.449 -57.517   5.013  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1       5.465 -57.898   5.906  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -6.231      2.480      3.051
+REMARK INTER + INTRA:          -7.617
+REMARK INTER:                  -7.322
+REMARK INTRA:                  -0.295
+REMARK UNBOUND:                -0.294
+REMARK  Name = kaempferol.pdb
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  O_4
+REMARK    2  A    between atoms: C_5  and  C_6
+REMARK    3  A    between atoms: C_9  and  O_10
+REMARK    4  A    between atoms: C_16  and  O_17
+REMARK    5  A    between atoms: C_19  and  O_20
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  O   UNL     1      -0.203 -54.810   9.274  0.00  0.00    +0.000 OA
+ATOM      2  C   UNL     1      -0.793 -55.784   8.822  0.00  0.00    +0.000 A 
+ATOM      3  C   UNL     1      -0.060 -56.647   7.863  0.00  0.00    +0.000 A 
+ATOM      4  C   UNL     1      -0.692 -57.697   7.318  0.00  0.00    +0.000 A 
+ATOM      5  O   UNL     1      -2.009 -58.037   7.575  0.00  0.00    +0.000 OA
+ATOM      6  C   UNL     1      -2.710 -57.296   8.498  0.00  0.00    +0.000 A 
+ATOM      7  C   UNL     1      -4.014 -57.723   8.768  0.00  0.00    +0.000 A 
+ATOM      8  C   UNL     1      -4.773 -57.039   9.711  0.00  0.00    +0.000 A 
+ATOM      9  C   UNL     1      -4.255 -55.937  10.382  0.00  0.00    +0.000 A 
+ATOM     10  C   UNL     1      -2.957 -55.507  10.103  0.00  0.00    +0.000 A 
+ATOM     11  C   UNL     1      -2.176 -56.185   9.157  0.00  0.00    +0.000 A 
+ENDROOT
+BRANCH   4  12
+ATOM     12  C   UNL     1      -0.025 -58.605   6.376  0.00  0.00    +0.000 A 
+ATOM     13  C   UNL     1       0.579 -59.785   6.835  0.00  0.00    +0.000 A 
+ATOM     14  C   UNL     1       1.184 -60.669   5.935  0.00  0.00    +0.000 A 
+ATOM     15  C   UNL     1       1.186 -60.367   4.577  0.00  0.00    +0.000 A 
+ATOM     16  C   UNL     1       0.612 -59.191   4.109  0.00  0.00    +0.000 A 
+ATOM     17  C   UNL     1       0.006 -58.310   5.007  0.00  0.00    +0.000 A 
+BRANCH  15  18
+ATOM     18  O   UNL     1       1.743 -61.211   3.662  0.00  0.00    +0.000 OA
+ATOM     19  H   UNL     1       1.946 -60.707   2.858  0.00  0.00    +0.000 HD
+ENDBRANCH  15  18
+ENDBRANCH   4  12
+BRANCH   3  20
+ATOM     20  O   UNL     1       1.253 -56.307   7.590  0.00  0.00    +0.000 OA
+ATOM     21  H   UNL     1       1.608 -57.082   7.102  0.00  0.00    +0.000 HD
+ENDBRANCH   3  20
+BRANCH   8  22
+ATOM     22  O   UNL     1      -6.043 -57.423  10.023  0.00  0.00    +0.000 OA
+ATOM     23  H   UNL     1      -6.415 -56.803  10.673  0.00  0.00    +0.000 HD
+ENDBRANCH   8  22
+BRANCH  10  24
+ATOM     24  O   UNL     1      -2.461 -54.429  10.777  0.00  0.00    +0.000 OA
+ATOM     25  H   UNL     1      -2.462 -53.644  10.206  0.00  0.00    +0.000 HD
+ENDBRANCH  10  24
+TORSDOF 5
+ENDMDL
